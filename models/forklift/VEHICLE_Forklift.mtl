@@ -1,0 +1,35 @@
+# Blender3D MTL File: 
+# Material Count: 3
+newmtl Wheel_Air_Wheel_Air.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Wheel_Air.png
+
+
+newmtl ForkLift_Front_ForkLift_Front.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ForkLift_Front.png
+
+
+newmtl ForkLift_ForkLift.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ForkLift.png
+
+
